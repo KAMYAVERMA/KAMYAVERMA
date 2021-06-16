@@ -1,4 +1,4 @@
- <h1 align="center">   ## Hileoo!! there 👋</h1>
+  ## Hileoo!! there 👋
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
