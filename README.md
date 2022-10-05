@@ -8,7 +8,7 @@
   
 
 
-- - 🌱 I’m currently learning **CSS**
+- - 🌱 I’m currently learning **ML**
 
 - - 🧐Exploring **new techy stuff and quick hacks.**
 
