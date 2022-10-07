@@ -8,15 +8,15 @@
   
 
 
-- - 🌱 I’m currently learning **ML**
+-  🌱 I’m currently learning **ML**
 
-- - 🧐Exploring **new techy stuff and quick hacks.**
+-  🧐Exploring **new techy stuff and quick hacks.**
 
-- - 😄 Pronouns: **She/her**
+-  😄 Pronouns: **She/her**
 
-- - 😅 Fun fact: **(Fall❌)Rise in love with coding.**
+-  😅 Fun fact: **(Fall❌)Rise in love with coding.**
 
-- - 📫 How to reach me **kamverma2301@gmai.com**
+-  📫 How to reach me **kamverma2301@gmai.com**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamyaverma&label=Profile%20views&color=0e75b6&style=flat" alt="kamyaverma" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamyaverma" alt="kamyaverma" /></a> </p>
