@@ -1,8 +1,5 @@
   <h1 align="center">HELIOO!! </h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-
-
+  
 ![code](https://user-images.githubusercontent.com/85511676/122277978-1be8ea00-cf04-11eb-9bca-e5b93da487da.gif)
 
   
