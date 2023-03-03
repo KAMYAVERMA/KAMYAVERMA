@@ -31,8 +31,8 @@
 ![](https://visitcount.itsvg.in/api?id=KAMYAVERMA&icon=5&color=6)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamyaverma&label=Profile%20views&color=0e75b6&style=flat" alt="kamyaverma" /> </p>
-<p align="left"> <img src="https://visitcount.itsvg.in/api?id=KAMYAVERMA&icon=5&color=6
-" /> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=KAMYAVERMA&icon=5&color=6" alt="kamyaverma" /> </p>
+
 
 
 
