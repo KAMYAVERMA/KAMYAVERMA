@@ -5,7 +5,9 @@
   
 
 #  About Me:
-🔭 I’m currently working on DSA<br>👯 I’m looking for internship<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Django<br>⚡ Fun fact: (Fall❌)Rise in love with coding<br>😄 Pronouns: She/her<br>📫 How to reach me kamverma2301@gmail.com
+🔭 I’m currently working on DSA<br>👯 I’m looking for internship<br>
+<!-- 🤝 I’m looking for help with<br> -->
+🌱 I’m currently learning Django<br>⚡ Fun fact: (Fall❌)Rise in love with coding<br>😄 Pronouns: She/her<br>📫 How to reach me kamverma2301@gmail.com
 
 
 ## 🌐 Socials:
