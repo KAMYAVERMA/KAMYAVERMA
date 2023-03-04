@@ -1,4 +1,4 @@
-  <h1 align="center">HEya!!! </h1>
+  <h1 align="center">HEYA!!! </h1>
   
 ![code](https://user-images.githubusercontent.com/85511676/122277978-1be8ea00-cf04-11eb-9bca-e5b93da487da.gif)
 
