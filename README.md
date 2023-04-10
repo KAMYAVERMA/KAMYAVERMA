@@ -22,7 +22,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=KAMYAVERMA&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=KAMYAVERMA23)]
+![](https://gtce.itsvg.in/api?username=KAMYAVERMA23)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
